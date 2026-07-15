@@ -10,4 +10,4 @@ Ao alterar um Template, todos os Hosts vinculados a ele passam a utilizar automa
 
 Criamos o Template "AHOW - MikroTik Base".
 
-Sempre que um novo cliente utilizar MikroTik, basta criar o Host e associar esse Template para que o monitoramento seja configurado automaticamente.
+Sempre que um novo cliente utilizar MikroTik, basta criar o Host e associar esse Template para que o monitoramento seja configurado automaticamente. 
