@@ -1,0 +1,13 @@
+# O que é um Template?
+
+Um Template é um conjunto de configurações reutilizáveis que define como um ou mais Hosts serão monitorados.
+
+Ele contém informações como Items, Triggers, Graphs, Discovery e Macros.
+
+Ao alterar um Template, todos os Hosts vinculados a ele passam a utilizar automaticamente as novas configurações, mantendo um padrão de monitoramento em toda a infraestrutura.
+
+## Exemplo na Ahow
+
+Criamos o Template "AHOW - MikroTik Base".
+
+Sempre que um novo cliente utilizar MikroTik, basta criar o Host e associar esse Template para que o monitoramento seja configurado automaticamente.
