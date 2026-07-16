@@ -85,6 +85,29 @@ Essa informação é armazenada no banco de dados do Zabbix e poderá ser utiliz
 - Histórico de utilização.
 
 ---
+## Exemplo Prático 2
+
+Host:
+MikroTik hEX
+
+Item:
+System Name
+
+Método de coleta:
+SNMP
+
+OID:
+1.3.6.1.2.1.1.5.0
+
+Valor retornado:
+ahow
+
+Intervalo:
+15 minutos
+
+Objetivo:
+Identificar o nome configurado no equipamento e preencher automaticamente o inventário do host.
+---
 
 ## Boas práticas
 
